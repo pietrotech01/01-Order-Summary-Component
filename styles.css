@@ -22,7 +22,7 @@
 /* Main CSS */
 
 .root-container {
-  background-image: url(images/pattern-background-mobile.svg);
+  background-image: url(./images/pattern-background-mobile.svg);
 }
 
 body {
@@ -101,6 +101,6 @@ body {
 
 @media (min-width: 700px) {
   .root-container {
-    background-image: url(images/pattern-background-desktop.svg);
+    background-image: url(./images/pattern-background-desktop.svg);
   }
 }
