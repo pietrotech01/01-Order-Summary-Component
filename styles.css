@@ -101,6 +101,6 @@ body {
 
 @media (min-width: 700px) {
   .root-container {
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(images/pattern-background-desktop.svg);
   }
 }
