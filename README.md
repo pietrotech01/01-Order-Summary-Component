@@ -4,6 +4,8 @@
 
 - The figure element has margin applied to it by default. It needs to be removed.
 - Used box shadow effect.
+- Used hover states.
+- Had to change button elements to <button> for accessibility
 
 ### Screenshot
 

@@ -77,11 +77,16 @@ body {
 .ap-text {
   margin-bottom: 8px;
   font-weight: bold;
+  margin-top: 8px;
 }
 
 .change-txt {
   font-weight: bold;
   color: #382ae1;
+}
+
+.price {
+  margin-bottom: 8px;
 }
 
 .buttons {
@@ -97,6 +102,21 @@ body {
   border-radius: 11px;
   box-shadow: 0px 7px 10px #766cf1;
   margin-bottom: 30px;
+  width: 100%;
+  border: none;
+}
+
+.pmt:hover {
+  background-color: #766cf1;
+}
+
+.cxl {
+  border: none;
+  background: none;
+}
+
+.cxl:hover {
+  color: black;
 }
 
 @media (min-width: 700px) {
